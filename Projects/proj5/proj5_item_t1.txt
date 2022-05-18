@@ -1,0 +1,15 @@
+Dairy	1.6
+Meat	0.2
+Meat	0.2
+Produce	1.8
+Produce	2.6
+Produce	1.7
+Dairy	0.7
+Canned/Jarred	1.9
+Bread/Bakery	2.7
+Meat	2.1
+Beverages	0.7
+Canned/Jarred	1
+Frozen	1.8
+Beverages	2.4
+Dry/Baking	2.8

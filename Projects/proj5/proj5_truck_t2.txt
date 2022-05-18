@@ -1,0 +1,2 @@
+Truck1	50
+Truck2 50
